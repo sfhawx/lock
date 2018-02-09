@@ -1,0 +1,9 @@
+视频换脸权限说明
+android.permission.CAMERA
+可以通过拍照提供换脸照片
+android.permission.RECORD_AUDIO
+可以将换脸以后的视频保存在本地
+android.permission.READ_PHONE_STATE
+通过用户的手机信息，获取用的异常上报
+android.permission.GET_ACCOUNTS
+保存用户信息
